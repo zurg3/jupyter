@@ -15,6 +15,9 @@ jupyterlab-language-pack-ru-RU
 # P5 kernel (optional)
 jupyterlite-p5-kernel==0.1.1
 
+# Terminal (optional)
+jupyterlite-terminal==0.1.6
+
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta==3.3.0
 # JupyterLab: Geojson file renderer (optional)
