@@ -40,6 +40,8 @@ ipympl==0.9.7
 ipycanvas==0.13.3
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
+# Python: nbconvert library for converting Jupyter notebooks (optional)
+nbconvert==7.16.6
 
 # Python: plotting libraries (optional)
 plotly==5.24.1
