@@ -11,7 +11,7 @@ jupyterlite-p5-kernel==0.1.1
 # Languages
 jupyterlab-language-pack-ru-RU
 
-# Terminal
+# JupyterLite
 jupyterlite-terminal==0.1.6
 
 # JupyterLab
