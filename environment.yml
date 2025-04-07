@@ -7,3 +7,4 @@ dependencies:
   - xeus-javascript
   - xeus-cpp
   - xeus-lua
+  - xeus-zmq
