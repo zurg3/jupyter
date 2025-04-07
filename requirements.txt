@@ -6,27 +6,25 @@ notebook==7.3.3
 # Kernels
 jupyterlite-pyodide-kernel==0.5.2
 jupyterlite-javascript-kernel==0.3.0
-jupyterlite-p5-kernel==0.1.1
+# jupyterlite-p5-kernel==0.1.1
 
 # Languages
 jupyterlab-language-pack-ru-RU
 
 # JupyterLite
-jupyterlite-xeus==3.1.6
+# jupyterlite-xeus==3.1.6
 jupyterlite-terminal==0.1.6
 
 # JupyterLab
-jupyterlab-fasta==3.3.0
-jupyterlab-geojson==3.4.0
-jupyterlab-night
-jupyterlab_miami_nights
+jupyterlab-night==0.5.1
+jupyterlab-miami-nights==0.4.2
 
 # Python libraries
 ipywidgets==8.1.5
 ipyevents==2.0.2
 ipympl==0.9.7
 ipycanvas==0.13.3
-ipyleaflet
+ipyleaflet==0.19.2
 nbconvert==7.16.6
 plotly==5.24.1
-bqplot
+bqplot==0.12.44
