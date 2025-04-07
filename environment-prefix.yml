@@ -1,9 +1,7 @@
-name: jupyterlite-xeus
+name: jupyterlite-xeus-prefix
 channels:
   - https://repo.prefix.dev/emscripten-forge-dev
   - conda-forge
 dependencies:
   - xeus-python
-  - xeus-javascript
   - xeus-cpp
-  - xeus-lua
