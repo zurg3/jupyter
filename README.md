@@ -1,7 +1,9 @@
 # JupyterLite
-[JupyterLite](https://github.com/jupyterlite) deployed as a static site to GitHub Pages.
 
-## Try it in your browser: https://zurg3.github.io/jupyter/
+[![JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://zurg3.github.io/jupyter/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zurg3/jupyter/main)
+
+[JupyterLite](https://github.com/jupyterlite) deployed as a static site to GitHub Pages.
 
 ## Requirements
 JupyterLite is being tested against modern web browsers:
