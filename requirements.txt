@@ -20,7 +20,7 @@ jupyterlab-night==0.5.1
 jupyterlab-miami-nights==0.4.2
 
 # Python libraries
-ipywidgets==8.1.5
+ipywidgets==8.1.6
 ipyevents==2.0.2
 ipympl==0.9.7
 ipycanvas==0.13.3
