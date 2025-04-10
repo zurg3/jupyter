@@ -1,7 +1,7 @@
 # Core modules
 jupyterlite-core==0.5.1
-jupyterlab==4.3.6
-notebook==7.3.3
+jupyterlab==4.4.0
+notebook==7.4.0
 
 # Kernels
 jupyterlite-pyodide-kernel==0.5.2
@@ -26,5 +26,5 @@ ipympl==0.9.7
 ipycanvas==0.13.3
 ipyleaflet==0.19.2
 nbconvert==7.16.6
-plotly==5.24.1
+plotly==6.0.1
 bqplot==0.12.44
