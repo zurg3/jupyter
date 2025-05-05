@@ -12,19 +12,19 @@ jupyterlite-javascript-kernel==0.3.0
 jupyterlab-language-pack-ru-RU
 
 # JupyterLite
-# jupyterlite-xeus==3.1.6
+# jupyterlite-xeus==3.1.8
 jupyterlite-terminal==0.1.6
 
 # JupyterLab
-jupyterlab-night==0.5.1
-jupyterlab-miami-nights==0.4.2
+jupyterlab-night
+jupyterlab-miami-nights
 
 # Python libraries
-ipywidgets==8.1.6
-ipyevents==2.0.2
-ipympl==0.9.7
-ipycanvas==0.13.3
-ipyleaflet==0.19.2
-nbconvert==7.16.6
-plotly==6.0.1
-bqplot==0.12.44
+ipywidgets
+ipyevents
+ipympl
+ipycanvas
+ipyleaflet
+nbconvert
+plotly
+bqplot
