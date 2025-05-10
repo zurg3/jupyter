@@ -1,4 +1,6 @@
 name: Build and Deploy
+env:
+  PYTHON_VERSION: "3.12"
 
 on:
   push:
@@ -15,7 +17,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: ${{ env.PYTHON_VERSION }}
           
       - name: Install the dependencies
         run: |
