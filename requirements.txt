@@ -15,9 +15,10 @@ jupyterlab-language-pack-ru-RU
 # jupyterlite-xeus==3.1.8
 jupyterlite-terminal==0.1.6
 
-# JupyterLab
+# Themes
 jupyterlab-night
 jupyterlab-miami-nights
+theme-darcula
 
 # Python libraries
 ipywidgets
