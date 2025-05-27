@@ -12,7 +12,7 @@ jupyterlite-javascript-kernel==0.3.0
 jupyterlab-language-pack-ru-RU
 
 # JupyterLite
-# jupyterlite-xeus==3.1.8
+jupyterlite-xeus==3.1.8
 jupyterlite-terminal==0.1.6
 
 # Themes
