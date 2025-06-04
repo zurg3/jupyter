@@ -6,7 +6,7 @@ notebook==7.4.3
 # Kernels
 jupyterlite-pyodide-kernel==0.6.0
 jupyterlite-javascript-kernel==0.3.0
-# jupyterlite-p5-kernel==0.1.1
+jupyterlite-p5-kernel==0.1.1
 
 # Languages
 jupyterlab-language-pack-ru-RU
