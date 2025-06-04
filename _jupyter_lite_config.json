@@ -1,8 +1,0 @@
-{
-  "XeusAddon": {
-    "environment_file": [
-      "environment-mamba.yml",
-      "environment-prefix.yml"
-    ]
-  }
-}
