@@ -1,10 +1,10 @@
 # Core modules
-jupyterlite-core==0.6.0
+jupyterlite-core==0.6.1
 jupyterlab==4.4.3
 notebook==7.4.3
 
 # Kernels
-jupyterlite-pyodide-kernel==0.6.0
+jupyterlite-pyodide-kernel==0.6.1
 jupyterlite-javascript-kernel==0.3.0
 jupyterlite-p5-kernel==0.1.1
 
@@ -12,7 +12,7 @@ jupyterlite-p5-kernel==0.1.1
 jupyterlab-language-pack-ru-RU
 
 # JupyterLite
-jupyterlite-xeus==4.0.0
+jupyterlite-xeus==4.0.1
 jupyterlite-terminal==0.2.0
 
 # Themes
