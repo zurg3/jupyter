@@ -1,0 +1,11 @@
+{
+  "packages": {
+    "tree": {},
+    "nano": {},
+    "vim": {},
+    "lua": {}
+  },
+  "aliases": {
+    "vi": "vim"
+  }
+}
