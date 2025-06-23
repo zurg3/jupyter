@@ -4,8 +4,7 @@
     "less": {},
     "nano": {},
     "vim": {},
-    "lua": {},
-    "llvm": {}
+    "lua": {}
   },
   "aliases": {
     "vi": "vim"
