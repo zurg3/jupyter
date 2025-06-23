@@ -1,9 +1,13 @@
 {
   "packages": {
     "tree": {},
+    "less": {},
     "nano": {},
     "vim": {},
-    "lua": {}
+    "python": {},
+    "ruby": {},
+    "lua": {},
+    "llvm": {}
   },
   "aliases": {
     "vi": "vim"
