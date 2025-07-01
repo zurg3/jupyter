@@ -2,7 +2,6 @@
 
 [![Build](https://github.com/zurg3/jupyter/actions/workflows/deploy.yml/badge.svg?branch=main&event=push)](https://github.com/zurg3/jupyter/actions)
 [![JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://zurg3.github.io/jupyter/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zurg3/jupyter/main)
 
 [JupyterLite](https://github.com/jupyterlite) deployed as a static site to GitHub Pages.
 
