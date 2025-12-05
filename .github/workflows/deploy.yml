@@ -1,6 +1,6 @@
 name: Build and Deploy
 env:
-  PYTHON_VERSION: "3.12"
+  PYTHON_VERSION: "3.14"
 
 on:
   push:
