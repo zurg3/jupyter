@@ -12,7 +12,7 @@ jupyterlite-p5-kernel==0.3.0
 jupyterlab-language-pack-ru-RU
 
 # JupyterLite
-jupyterlite-xeus==4.4.0
+jupyterlite-xeus==4.4.1
 jupyterlite-terminal==1.2.0
 
 # Themes
