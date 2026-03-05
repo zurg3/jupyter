@@ -9,5 +9,12 @@
   "aliases": {
     "vi": "vim",
     "git": "git2cpp"
+  },
+  "environment": {
+    "GIT_CORS_PROXY": "https://corsproxy.io/?url=",
+    "GIT_AUTHOR_NAME": "John Doe",
+    "GIT_AUTHOR_EMAIL": "jd@example.com",
+    "GIT_COMMITTER_NAME": "John Doe",
+    "GIT_COMMITTER_EMAIL": "jd@example.com"
   }
 }
