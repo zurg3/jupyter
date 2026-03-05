@@ -3,9 +3,11 @@
     "tree": {},
     "nano": {},
     "vim": {},
-    "lua": {}
+    "lua": {},
+    "git2cpp": {}
   },
   "aliases": {
-    "vi": "vim"
+    "vi": "vim",
+    "git": "git2cpp"
   }
 }
