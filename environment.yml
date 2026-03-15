@@ -1,6 +1,6 @@
 name: jupyterlite-xeus
 channels:
-  - https://repo.prefix.dev/emscripten-forge-4x
+  - https://repo.prefix.dev/emscripten-forge-3x
 dependencies:
   - xeus-python
   - xeus-cpp
