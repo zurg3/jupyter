@@ -1,6 +1,7 @@
 name: Build and Deploy
 env:
   PYTHON_VERSION: "3.14"
+  COCKLE_CHANNEL: "https://repo.prefix.dev/emscripten-forge-3x"
 
 on:
   push:
@@ -13,25 +14,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-        
+
       - name: Setup Python
         uses: actions/setup-python@v6
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-          
+
       - name: Install the dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          
+
       - name: Setup Micromamba
         uses: mamba-org/setup-micromamba@v2
-        
+
       - name: Build the JupyterLite site
         run: |
           cp README.md content
+          COCKLE_WASM_EXTRA_CHANNEL=${{ env.COCKLE_CHANNEL }}
           jupyter lite build --contents content --output-dir dist
-          
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:

@@ -2,9 +2,7 @@
   "packages": {
     "tree": {},
     "nano": {},
-    "vim": {
-      "version": "<9.2"
-    },
+    "vim": {},
     "lua": {},
     "git2cpp": {}
   },
