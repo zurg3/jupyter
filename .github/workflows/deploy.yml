@@ -31,8 +31,8 @@ jobs:
       - name: Build the JupyterLite site
         run: |
           cp README.md content
-          # COCKLE_WASM_EXTRA_CHANNEL=${{ env.COCKLE_CHANNEL }}
-          COCKLE_WASM_EXTRA_CHANNEL=https://repo.prefix.dev/emscripten-forge-3x jupyter lite build --contents content --output-dir dist
+          # jupyter lite build --contents content --output-dir dist
+          COCKLE_WASM_EXTRA_CHANNEL=${{ env.COCKLE_CHANNEL }} jupyter lite build --contents content --output-dir dist
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
