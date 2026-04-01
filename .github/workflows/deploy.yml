@@ -29,10 +29,11 @@ jobs:
         uses: mamba-org/setup-micromamba@v3
 
       - name: Build the JupyterLite site
+        env:
+          COCKLE_WASM_EXTRA_CHANNEL: ${{ env.COCKLE_CHANNEL }}
         run: |
           cp README.md content
-          # jupyter lite build --contents content --output-dir dist
-          COCKLE_WASM_EXTRA_CHANNEL=${{ env.COCKLE_CHANNEL }} jupyter lite build --contents content --output-dir dist
+          jupyter lite build --contents content --output-dir dist
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
