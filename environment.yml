@@ -4,5 +4,5 @@ channels:
 dependencies:
   - xeus-python
   - xeus-cpp
-  - xeus-lua=0.7.7
+  - xeus-lua
   - xeus-javascript
