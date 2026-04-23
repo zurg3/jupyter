@@ -20,18 +20,9 @@ jupyterlite-terminal==1.3.1
 # JupyterLab extensions
 jupyterlab-open-url-parameter
 jupyterlab-spreadsheet-editor
+nbconvert
 
 # Themes
 jupyterlab-night
 jupyterlab-miami-nights
 theme-darcula
-
-# Python libraries
-ipywidgets
-ipyevents
-ipympl
-ipycanvas
-ipyleaflet
-nbconvert
-plotly
-bqplot
