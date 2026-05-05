@@ -1,12 +1,12 @@
 # zurg3's JupyterLite deployment
 
 # Core modules
-jupyterlite-core==0.7.3
+jupyterlite-core==0.7.5
 jupyterlab==4.5.7
 notebook==7.5.6
 
 # Kernels
-jupyterlite-pyodide-kernel==0.7.1
+jupyterlite-pyodide-kernel==0.7.2
 jupyterlite-javascript-kernel==0.3.0
 jupyterlite-p5-kernel==0.3.0
 
