@@ -14,7 +14,7 @@ jupyterlab-language-pack-ru-RU
 
 # JupyterLite
 jupyterlite-xeus==4.5.2
-jupyterlite-terminal==1.4.0
+jupyterlite-terminal==1.4.1
 
 # JupyterLab extensions
 jupyterlab-open-url-parameter
