@@ -1,7 +1,7 @@
 # zurg3's JupyterLite deployment
 
 # Core modules
-jupyterlite-core==0.8.0
+jupyterlite-core==0.8.1
 jupyterlab==4.6.1
 notebook==7.6.0
 
