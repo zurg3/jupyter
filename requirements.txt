@@ -6,7 +6,7 @@ jupyterlab==4.6.1
 notebook==7.6.0
 
 # Kernels
-jupyterlite-pyodide-kernel==0.8.1
+jupyterlite-pyodide-kernel==0.8.2
 jupyterlite-javascript-kernel==0.3.0
 
 # Languages
@@ -14,7 +14,7 @@ jupyterlab-language-pack-ru-RU
 
 # JupyterLite
 jupyterlite-xeus==5.0.0
-jupyterlite-terminal==1.5.1
+jupyterlite-terminal==1.6.0
 
 # JupyterLab extensions
 jupyterlab-open-url-parameter
