@@ -1,12 +1,12 @@
 # zurg3's JupyterLite deployment
 
 # Core modules
-jupyterlite-core==0.8.1
-jupyterlab==4.6.2
-notebook==7.6.1
+jupyterlite-core==0.8.3
+jupyterlab==4.6.3
+notebook==7.6.2
 
 # Kernels
-jupyterlite-pyodide-kernel==0.8.2
+jupyterlite-pyodide-kernel==0.8.4
 jupyterlite-javascript-kernel==0.3.0
 
 # Languages
@@ -14,7 +14,7 @@ jupyterlab-language-pack-ru-RU
 
 # JupyterLite
 jupyterlite-xeus==5.0.0
-jupyterlite-terminal==1.6.0
+jupyterlite-terminal==1.6.2
 
 # JupyterLab extensions
 jupyterlab-open-url-parameter
